@@ -1,0 +1,6 @@
+Despues de hacer el ciclo en ambos casos, uno con un double y el otro con la fraccion.
+Salieron resultados diferentes a los esperados, en el double salio 0 y en la fracción 
+salio infinity.
+Esto se debe a que si el resultado de una operacion sobrepasa el valor maximo, 
+no se genera un error de ejecucion sino que se pierden los bits de mayor peso en la
+representación del resultado.
