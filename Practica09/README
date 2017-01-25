@@ -1,0 +1,27 @@
+﻿Nombre: Flores Gonzalez Luis Brandon
+
+Manera de compilar y ejecutar el programa:
+
+El programa se compila y ejecuta desde la terminal.
+
+1. Se debe estar en la carpeta src para compilar el ordenamiento que se requiera. Cada ordenamiento
+tiene su propio main.
+2. Para correr el programa desde la misma carpeta src se debe escribir el siguiente comando.
+
+java Ordenamiento "e" "Archivo"
+
+Donde -Ordenamiento- es el nombre del archivo(tipo de ordenamiento) que se quiere probar, -e- es el tipo de dato 
+que usara el ordenamiento puede ser "e" para enteros o "f" para flotantes, y -Archivo- es el nombre del archivo que
+contiene los numeros a ordenar, este archivo que se leera debe estar en la carpeta src.
+
+Ejemplo de entrada desde la terminal
+
+java Quicksort "e" "nums_enteros"
+
+--------------------------------------------
+
+Las pruebas que hice para generar los archivos especificados en el pdf se encuentras en la carpeta archivos. 
+
+Aclaro que cree tres gráficas, ya que la grafica de ordenamientos generales no se distinguia mergesort y quicksort
+de bubblesort ya que este ultimo crecia tan rapido que mergesort y quicksort no se notaban en la grafica. Por
+lo que cree una tercera grafica que solo contiene quicksort y mergesort. 
