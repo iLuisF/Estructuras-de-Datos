@@ -1,0 +1,30 @@
+﻿Nombre: Flores Gonzalez Luis Brandon
+
+
+Manera de compilar y ejecutar el programa:
+
+El programa se compila y ejecuta desde la terminal.
+
+1. Se debe estar en la carpeta src para compilar el archivo Main.java.
+2. Para correr el programa desde la misma carpeta src se debe escribir el siguiente comando.
+
+java Main Texto
+
+Donde Main es el programa de prueba y Texto es el archivo a evaluar para obtener la frecuencias.
+
+Se recomienda usar la siguiente entrada desde la terminal.
+
+java Main Alicia.txt
+
+Esto con el proposito de que el tiempo en correrlo sea menor ya que con el texto del Quijote tarda mas 
+tiempo.
+
+--------------------------------------------
+
+Anteriormente te había enviado un archivo incompleto por falta de tiempo, pero gracias a que extendiste
+el plazo para entregar la practica pude acabarla por completo.
+
+Por lo que en esta practica logre acabarla por completo.
+
+
+
