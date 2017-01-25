@@ -1,4 +1,3 @@
-package fraccionconvertir;
 
 import java.util.StringTokenizer;
 
