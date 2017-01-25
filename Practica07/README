@@ -1,0 +1,28 @@
+Nombre: Flores Gonzalez Luis Brandon
+
+Manera de compilar y ejecutar el programa:
+
+El programa se compila y ejecuta desde la terminal.
+
+1. Se debe estar en la carpeta src para compilar el archivo Simulador.java.
+2. Para correr el programa desde la misma carpeta src se debe escribir el siguiente comando.
+
+java Simulador num_p it_p min_p max_p prod_mensaje num_c it_c min_c max_c cons_mensaje
+
+Donde Simulador es el programa de prueba y
+
+num_p es el numero de productores.
+it_p iteraciones a realizar en los productores.
+min_p minimo de tiempo de los productores.
+max_p maximo de tiempo de los productores.
+prod_mensaje determina si los productores imprimira sus mensajes o no.
+num_c numero de consumidores.
+it_c iteraciones a realizar en los consumidores.
+min_c minimo de tiempo de los consumidores.
+max_c maximo de tiempo de los consumidores.
+cons_mensaje si los consumidores imprimira sus mensajes o no.
+
+Ejemplo de entrada desde la terminal.
+
+java Simulador 20 20 99 101 1 20 20 149 151 -1 
+
