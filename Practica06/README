@@ -1,0 +1,18 @@
+Nombre: Flores Gonzalez Luis Brandon
+Numero de cuenta: 312218342
+Correo: iluis@ciencias.unam.mx
+
+Manera de compilar y ejecutar el programa:
+
+El programa se compila y ejecuta desde la terminal.
+
+1. Se debe estar en la carpeta src para compilar el archivo Main.java.
+2. Para correr el programa desde la misma carpeta src se debe escribir el siguiente comando.
+
+java Main expresion
+
+Donde Main es el programa de prueba y expresion es la expresion en forma infija. En caso de insertar una expresión con parentesis
+se debe poner entre ''.
+
+Hay un archivo extra que se llama PilaDinamica.java este lo implemente antes de saber que se tenia que hacer la pila usando las
+listas ya creadas. Lo deje como hago extra, pero corregi el programa para que se implementara la pila con listas.
